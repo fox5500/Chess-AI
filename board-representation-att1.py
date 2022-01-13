@@ -1,1 +1,2 @@
-## attempting to define a board enviroment that serves as abckend for chess ai##
+## attempting to define a board enviroment that serves as backend for chess ai##
+
